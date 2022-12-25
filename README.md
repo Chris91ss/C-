@@ -12,3 +12,5 @@
 
 # - [NerdArena](https://www.nerdarena.ro/utilizator/Christian?action=stats)
 
+# - [SPOJ](https://www.spoj.com/users/chris_s/)
+
